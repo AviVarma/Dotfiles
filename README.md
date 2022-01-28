@@ -2,7 +2,8 @@
 This is a backup of my init.vim settings.
 
 ## Dependencies:
-Nodejs version > 12.2
+* Nodejs version > 12.2
+* [Nerd font] (https://www.nerdfonts.com/)
 
 ## packages:
 Plug 'https://github.com/vim-airline/vim-airline' "Airline.
