@@ -1,0 +1,2 @@
+# NeoVimSettings
+ My init.vim
