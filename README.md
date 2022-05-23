@@ -5,6 +5,6 @@ Here you can find:
 * My Powershell 5.0 profile.
 
 ## Neovim Dependencies
-* [Nerd font] (https://www.nerdfonts.com/)
+* [Nerd font](https://www.nerdfonts.com/)
     * I use JetBrains NF.
 * [NvChad](https://nvchad.github.io/)
