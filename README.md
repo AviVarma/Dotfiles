@@ -1,16 +1,10 @@
-# NeoVimSettings
-This is a backup of my init.vim settings.
+# My Dotfiles
+Here you can find:
 
-## Dependencies:
-* Nodejs version > 12.2
+* My Neovim Settings (I am currently using neovim 0.7.0)
+* My Powershell 5.0 profile.
+
+## Neovim Dependencies
 * [Nerd font] (https://www.nerdfonts.com/)
-
-## packages:
-Plug 'https://github.com/vim-airline/vim-airline' "Airline.
-* dracula/vim
-* ryanoasis/vim-devicons
-* scrooloose/nerdtree
-* ryanoasis/vim-devicons
-* junegunn/fzf
-* junegunn/fzf.vim
-* neoclide/coc.nvim
+    * I use JetBrains NF.
+* [NvChad](https://nvchad.github.io/)
