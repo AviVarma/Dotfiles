@@ -1,10 +1,16 @@
 # My Dotfiles
 Here you can find:
 
-* My Neovim Settings (I am currently using neovim 0.7.0)
-* My Powershell 5.0 profile.
+- Neovim Settings (I am currently using neovim 0.7.2)
+- Powershell 5.0 profile.
+- Alacritty Settings for Windows.
+- Kitty Settings for Linux.
+- Neofetch Settings.
+- zsh profile.
+
 
 ## Neovim Dependencies
 * [Nerd font](https://www.nerdfonts.com/)
-    * I use JetBrains NF.
+    - on Windowd I use JetBrains.
+    - On Linux I use Hack.
 * [NvChad](https://nvchad.github.io/)
