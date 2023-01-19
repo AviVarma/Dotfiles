@@ -10,6 +10,9 @@ Here you can find:
 - Neofetch Settings.
 - zsh profile.
 
+## Note:
+
+I am no longer using Manjaro and have ported over the Fedora Linux, so the Manjaro Dotfiles are no longer maintained.
 
 ## Neovim Dependencies
 * [Nerd font](https://www.nerdfonts.com/)
