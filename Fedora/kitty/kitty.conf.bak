@@ -6,7 +6,7 @@
 #: individual font faces and even specify special fonts for particular
 #: characters.
 
-font_family      monospace
+font_family      Caskaydia Cove Nerd Font Complete
 bold_font        auto
 italic_font      auto
 bold_italic_font auto
@@ -959,7 +959,7 @@ inactive_tab_font_style normal
 
 #: The foreground and background colors.
 
-background_opacity 1.0
+background_opacity 0.85
 
 #: The opacity of the background. A number between zero and one, where
 #: one is opaque and zero is fully transparent. This will only work if
@@ -1095,7 +1095,7 @@ shell /usr/bin/zsh
 #: --login and --interactive to ensure that the shell starts in
 #: interactive mode and reads its startup rc files.
 
-editor .
+editor nvim
 
 #: The terminal based text editor (such as vim or nano) to use when
 #: editing the kitty config file or similar tasks.
@@ -2141,6 +2141,6 @@ map shift+cmd+/ open_url https://sw.kovidgoyal.net/kitty/
 
 
 # BEGIN_KITTY_THEME
-# Gruvbox Dark
+# Afterglow
 include current-theme.conf
 # END_KITTY_THEME
