@@ -3,16 +3,16 @@
 # My Dotfiles
 Here you can find:
 
-- Neovim Settings (I am currently using neovim 0.7.2)
-- Powershell 5.0 profile.
+- Neovim Settings 
+- Powershell profile.
 - Alacritty Settings for Windows.
 - Kitty Settings for Linux.
 - Neofetch Settings.
 - zsh profile.
 
-## Note:
+## Fedora Settings
 
-I am no longer using Manjaro and have ported over the Fedora Linux, so the Manjaro Dotfiles are no longer maintained.
+[Find my Fedora setting here.](./Fedora/README.md)
 
 ## Neovim Dependencies
 * [Nerd font](https://www.nerdfonts.com/)
