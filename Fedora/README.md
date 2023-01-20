@@ -1,16 +1,16 @@
 # My Fedora Setup:
 
-## Extension Manager apps:
+## Extension Manager apps
 
 - Arc Menu
 - Aylur's Widgets
 - Blur my Shell
-- Caffine
+- Caffeine
 - Just Perfection
 - spotify-tray
 - User Themes
 
-### System Extensions:
+### System Extensions
 
 Disable All of them.
 
@@ -39,4 +39,4 @@ Disable All of them.
 
 ## Wallpaper
 
-![](../images/wallpaper.png)
+![My Wallpaper](../images/wallpaper.png)
