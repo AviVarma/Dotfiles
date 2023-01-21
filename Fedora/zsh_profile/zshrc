@@ -117,6 +117,4 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 export PICO_SDK_PATH="/home/avarma/Development/pico/pico-sdk"
 
 # Env vars for https://github.com/dotzenith/SpotiFetch
-export SPOTIPY_CLIENT_ID='1fa722d4d6434b048499410647e575ee'
-export SPOTIPY_CLIENT_SECRET='935d2abb7625432db20d977f3d722ab1'
 export SPOTIPY_REDIRECT_URI='http://127.0.0.1:9090'
