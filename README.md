@@ -27,6 +27,7 @@ Here you can find:
 
 - [bottom](https://github.com/ClementTsang/bottom): Like Htop but aesthetic
 - [animdl](https://github.com/justfoolingaround/animdl): Watch anime from cli
+- [anipy-cli](https://github.com/Atreyagaurav/anime-helper-shell): I have found this anime stremaing tool to have better quality than `animdl`
 - [dra-cla](https://github.com/CoolnsX/dra-cla): Watch K-dramas from cli
 - [mangal](https://github.com/metafates/mangal): Download mangas form cli
 - [typioca](https://github.com/bloznelis/typioca): Aesthetic typing test
