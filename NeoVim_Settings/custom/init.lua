@@ -1,3 +1,7 @@
--- example file i.e lua/custom/init.lua
+-- local autocmd = vim.api.nvim_create_autocmd
 
--- load your globals, autocmds here or anything .__.
+-- Auto resize panes when resizing nvim window
+-- autocmd("VimResized", {
+--   pattern = "*",
+--   command = "tabdo wincmd =",
+-- })

@@ -1,28 +1,20 @@
--- Just an example, supposed to be placed in /lua/custom/
-
--- remove this if you dont use custom.init.lua at all
-require "custom"
-
+---@type ChadrcConfig
 local M = {}
 
--- make sure you maintain the structure of `core/default_config.lua` here,
--- example of changing theme:
+-- Path to overriding theme and highlights files
+local highlights = require "custom.highlights"
 
 M.ui = {
-   theme = "gruvbox",
+  theme = "yoru",
+  theme_toggle = { "yoru", "one_light" },
+
+  hl_override = highlights.override,
+  hl_add = highlights.add,
 }
 
-M.plugins = {
-  options = {
-    lspconfig = {
-      setup_lspconf = "custom.plugins.lspconfig",
-    },
-  },
-  user = {
-    ["goolord/alpha-nvim"] = {
-      disable = false,
-    },
-  },
-}
+M.plugins = "custom.plugins"
+
+-- check core.mappings for table structure
+M.mappings = require "custom.mappings"
 
 return M
