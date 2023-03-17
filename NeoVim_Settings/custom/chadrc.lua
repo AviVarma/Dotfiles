@@ -8,9 +8,14 @@ M.ui = {
   theme = "yoru",
   theme_toggle = { "yoru", "one_light" },
 
-  hl_override = highlights.override,
+  -- hl_override = highlights.override,
   hl_add = highlights.add,
-
+  hl_override = {
+    NvDashAscii = {
+      fg = "blue",
+      bg = "black2"
+    },
+  },
 
   -- nvdash (dashboard)
   nvdash = {
