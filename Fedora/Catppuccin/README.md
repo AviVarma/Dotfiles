@@ -1,6 +1,6 @@
 # My Fedora Setup:
 
-![](https://imgur.com/gallery/JlswDGT)
+![](../../images/Catppuccin-Mocha.png)
 
 I created this setup by following [this tutorial](https://www.youtube.com/watch?v=L1XGDQdW3ns), then added a personal touch.
 
