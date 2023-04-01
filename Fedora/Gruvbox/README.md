@@ -1,5 +1,7 @@
 # My Fedora Setup:
 
+![](../../images/unixporn.png)
+
 ## Extension Manager apps
 
 - Arc Menu

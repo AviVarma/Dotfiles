@@ -1,6 +1,6 @@
 # My Dotfiles
 
-![image of my desktop](./images/unixporn.png)
+![image of my desktop](./images/Catppuccin-Mocha.png)
 
 Here you can find:
 
@@ -13,7 +13,8 @@ Here you can find:
 
 ## Fedora Settings
 
-[Find my Fedora setting here.](./Fedora/README.md)
+- [Gruvbox on GNOME - Fedora](./Fedora/Gruvbox/README.md)
+- [Catppuccin-Mocha on GNOME - Fedora](./Fedora/Catppuccin/README.md)
 
 ## Neovim Dependencies
 
