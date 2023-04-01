@@ -35,4 +35,4 @@ Disable All of them.
 
 ## Wallpaper
 
-![](https://imgur.com/a/WBLc5G8)
+![](../../images/wallpaper_abstract.jpg)
