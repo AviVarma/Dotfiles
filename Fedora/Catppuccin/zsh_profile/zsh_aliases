@@ -1,0 +1,23 @@
+# To use this file make sure your $(shell)rc file contains the following: 
+# if [ -f ~/.zsh_aliases ]; then
+# . ~/.zsh_aliases
+# fi
+
+
+alias rm='rm -i'
+alias ls='ls --color=auto'
+alias ll='ls -l --color=auto'
+alias lsz='ls -lrSh'
+alias lsdir='ls -ld **/'
+alias mv='mv -iv'
+alias cp='cp -iv'
+alias grep='grep --color'
+alias findps='ps -ax | grep'
+
+# Some Git Aliases
+alias gita='git add'
+alias gitc='git commit -m'
+alias gitp='git push'
+
+# Misc
+alias icat="kitty +kitten icat"
