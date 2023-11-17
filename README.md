@@ -33,6 +33,7 @@ Here you can find:
 - [mangal](https://github.com/metafates/mangal): Download mangas form cli
 - [typioca](https://github.com/bloznelis/typioca): Aesthetic typing test
 - [libgen-downloader](https://github.com/obsfx/libgen-downloader): Download any book.
+- [mov-cli](https://github.com/mov-cli/mov-cli): Movie CLI downloader tool now works for anime, movies and Live TV!
 
 ## Cool Wallpaper Repositories
 
